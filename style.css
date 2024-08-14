@@ -1,0 +1,36 @@
+body{
+    background-color: burlywood; 
+
+}
+
+.pfp{
+    display: flex;
+    align-items: center ;
+    justify-content: center;
+    /* background-color: blue; */
+    margin-top: 100px;
+
+}
+
+img {
+    border-radius: 50%;
+    width: 200px;
+}
+
+.text{
+    font-size: 20px;
+    /* background-color: chartreuse; */
+    color: darkmagenta;
+    text-align: center;
+
+}
+
+.tik1{
+    display: flex;
+    justify-content: center;
+}
+
+.tik2{
+    display: flex;
+    justify-content: center;
+}
